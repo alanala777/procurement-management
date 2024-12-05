@@ -1,4 +1,4 @@
-# procurement_management
+# procurement-management
 
 ## Project setup
 ```
