@@ -1,4 +1,4 @@
-# vue-project
+# procurement_management
 
 ## Project setup
 ```
